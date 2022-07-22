@@ -1,4 +1,11 @@
-### Hi there 👋
+### Hi, welcome to my Github!
+
+I am Yishen (Eason), PhD student KU Leuven, Belgium. 
+
+My research interests in experimental petrology and numerical modelling. I use experiments and codes to improve our understanding on the volcanism in the Earth system.
+
+
+Here is the place host my codes I developped with my colleages and friends.
 
 <!--
 **eazzzon/eazzzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
