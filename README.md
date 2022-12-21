@@ -2,10 +2,10 @@
 
 I am Yishen (Eason), PhD student KU Leuven, Belgium. 
 
-My research combines experimental petrology and numerical modelling. I use experiments and codes to improve our understanding on the volcanism in the Earth system.
+My research combines experimental petrology and numerical modelling to improve our understanding on the volcanism in the Earth system.
 
 
-Here is the place hosting my codes I developped with my colleages and friends.
+Here is the place hosting the codes I developped with my colleages and friends.
 
 <!--
 **eazzzon/eazzzon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
