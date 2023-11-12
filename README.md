@@ -2,7 +2,7 @@
 
 I am Yishen (Eason), PhD student KU Leuven, Belgium. 
 
-My research combines experimental petrology and numerical modelling to study interior structures of planets, magmatic processes in volcanology
+My research combines experimental petrology and numerical modelling to study interior structures of rocky exoplanets, magmatic processes in volcanology
 
 
 <!--
