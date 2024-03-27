@@ -1,6 +1,6 @@
 ### Hi, welcome to my Github!
 
-I am Yishen (Eason), PhD student KU Leuven, Belgium. 
+I am Yishen (Eason), postdoctoral associate at Rice university.
 
 My research combines experimental petrology and numerical modelling to study interior structures of rocky exoplanets, magmatic processes in volcanoes
 
