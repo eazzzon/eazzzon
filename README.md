@@ -2,7 +2,7 @@
 
 I am Yishen (Eason), postdoctoral associate at Rice university.
 
-My research combines experimental petrology and numerical modelling to study interior structures of rocky exoplanets, magmatic processes in volcanoes
+My research combines experimental petrology and numerical modelling to study interior evolution and volcanic processes in rocky planets
 
 
 <!--
